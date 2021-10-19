@@ -1,0 +1,19 @@
+{
+    "name": "naeemhaque/plugin-template",
+    "description": "Wordpress Plugin Starter Template.",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "NaemHaque",
+            "email": "naeemhaque248@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Includes\\": "includes/"
+        }
+    }
+}

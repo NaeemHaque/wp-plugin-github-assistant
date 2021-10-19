@@ -1,0 +1,31 @@
+{
+  "name": "vue-wordpress-template",
+  "version": "1.0.0",
+  "description": "Vue Wordpress Plugin template starter",
+  "author": "Naeem Haque",
+  "scripts": {
+    "development": "mix",
+    "hot": "mix watch --hot",
+    "production": "mix --production",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "element-ui": "^2.15.6",
+    "laravel-mix": "^6.0.34",
+    "moment": "^2.29.1",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.2"
+  },
+  "devDependencies": {
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "vue-cli-plugin-vuetify": "~2.4.3",
+    "vue-loader": "^15.9.7",
+    "vue-template-compiler": "^2.6.14",
+    "vuetify-loader": "^1.7.0"
+  },
+  "license": "ISC"
+}
