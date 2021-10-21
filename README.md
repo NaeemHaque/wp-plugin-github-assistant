@@ -1,5 +1,12 @@
 # wp-plugin-github-assistant
 
-### npm install
-### composer install
-### npm run watch
+## Project setup
+```
+npm install
+composer install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run watch
+```
